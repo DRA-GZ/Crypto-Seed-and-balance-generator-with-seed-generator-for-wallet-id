@@ -1,5 +1,5 @@
 # Crypto-Seed-and-balance-generator-with-seed-generator-for-wallet-id
-I understand, thank you for the clarification. Here's an updated description:
+
 
 ---
 
